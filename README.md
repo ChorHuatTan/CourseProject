@@ -1,9 +1,11 @@
 # README.md
 Getting and Cleaning Data - Course Project
 
-This README.MD		- file decribes the files submitted.
+The following are files submitted for the course project:
+
 1.	README.MD			- this file
-2.	tidy.txt			- the required tidy dataset
-3. 	CookBook.txt	- this file decribes how the data elements extracted from original files. It also explains the variables in the tidy dataset. 
-4.  Project.ipyn  - the Jupyter notebook script to create the tidy dataset
+2.	tidy.txt			- the tidy dataset
+3.  Project.ipyn  - the Jupyter notebook script to create the tidy dataset
+4. 	CookBook.txt	- file decribing how the data elements were extracted from original files. It also explains the variables in the tidy dataset. 
+
 

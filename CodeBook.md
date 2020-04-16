@@ -1,11 +1,9 @@
-This file describe the variables in the tidyDf dataset
+This file describes the variables in the tidyDf dataset as in Step 4 in the course project.
 
-1. VolunteerNo
-2. Activity
-3. 
 
-'VolunteerNo' 
-'Activity' 
+1. VolunteerNo - volunteer identifier
+2. Activity    - activities (walking, walking_upstairs, walking_downstairs, sitting, standing & laying)
+
 'timeBodyAccMeanX' 
 'timeBodyAccMeanY' 
 'timeBodyAccMeanZ' 

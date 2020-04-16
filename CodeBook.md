@@ -1,4 +1,16 @@
-This file describes the variables in the tidyDf dataset.
+This file describes the variables in the tidy.txt dataset.
+
+run_analysis.R script will create the tidy.txt dataset. 
+
+The following datasets are required to generate the tidy.txt;
+1.  features.txt
+2.  activity_labels.txt
+3.  X_train.txt
+4.  y_train.txt
+5.  subject_train.txt
+6.  X_test.txt
+7.  y_test.txt
+8.  subject_test.txt
 
 The tidy.txt dataset contains the average of measurements of the mean and std sorted by activity of each volunteer. The means and stds were extracted from the original files. 
 

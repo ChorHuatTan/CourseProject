@@ -1,9 +1,8 @@
-This file describes the variables in the tidyDf dataset as in Step 4 in the course project.
+This file describes the variables in the tidyDf dataset.
 
 The tidy.txt dataset contains the average of measurements of the mean and std sorted by activity of each volunteer. The means and stds were extracted from the original files. 
 
-
-The following are the variables in the dataset. Variables from column 3 through 81 are the average of each activity of every participants.
+The following are the variables in the tidy dataset. Variables from column 3 through 81 are the average of each activity of every participants.
 
 1.  VolunteerNo - volunteer identifier
 2.  Activity    - activities (walking, walking_upstairs, walking_downstairs, sitting, standing & laying)
